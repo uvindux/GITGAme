@@ -1,4 +1,6 @@
 /* Reset some default styles edit*/
+/* made by me*/
+
 body, h1, h2, p {
     margin: 0;
     padding: 0;
@@ -14,7 +16,7 @@ header {
     background-color: #24292e;
     color: #fff;
     text-align: center;
-    padding: 1rem;
+    padding: 2rem;
 }
 
 h1 {
